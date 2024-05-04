@@ -1,0 +1,59 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# Bytecode cache
+*.bin
+
+# Generated files
+bin/
+gen/
+out/
+gen-*/
+
+# Application properties
+application.properties
+application.yml
+
+# IDE metadata directory
+.metadata/
+
+# Spring Boot generated files
+*.jar
+*.war
+*.ear
+
+# Log files
+log/
+logs/
+
+# Temporary files
+*.tmp
+
+# Thumbs.db file on Windows
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# SonarQube
+sonar-project.properties
